@@ -1,0 +1,3 @@
+pySigma==1.5.1
+pySigma-backend-sqlite==2.0.0
+PyYAML==6.0.3
